@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Allow: index.html
+Allow: galaxy.html
+Allow:  about.html
+Allow characters.html
+Allow: contact.html
+Sitemap: https://dasist-firr.github.io/WebTech-Laba-8/sitemap.xml
